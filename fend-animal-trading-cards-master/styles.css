@@ -1,0 +1,64 @@
+/* add your CSS here */
+
+body {
+    background: #87867A;
+}
+
+.shih-img {
+	width:80.7%;
+    border-radius:14px;
+    display:block;
+    margin: auto;
+}
+
+.container {
+	margin:2em auto; 
+	font-size:16px;
+	width: 74.3vw;
+    background: #61585B;
+    box-shadow: -3px 3px 0.54px black;
+}
+
+.style {
+	border: 1px solid #fff;
+	padding: 4px;
+}
+
+
+ul li {
+	list-style: none;
+}
+
+ul {
+	padding:0;
+	margin:0;
+}
+
+.info ul>li span {
+	font-weight: bolder;
+}
+
+div.container h3 {
+	color: #0f0;
+    text-align: center;
+    padding-bottom: 4px;
+    border-bottom: 5px solid #0f0;
+    text-transform: uppercase;  
+    width:6em;
+    margin:0.8em auto;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 2.4em;
+}
+
+.info {
+    width: 76%;
+    margin:1.3em  auto;
+    padding: 1.21em;
+    font-family: 'Martel Sans', sans-serif;
+    background: #fff;
+}
+
+p, ul>li, h3 {
+    line-height:1.6em;
+}
+	
