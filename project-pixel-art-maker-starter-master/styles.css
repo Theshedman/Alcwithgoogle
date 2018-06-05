@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    background-color: dimgrey
+}
+
+h1 {
+    font-family: 'Nosifer', cursive;
+    font-size: 50px;
+    margin: 0.2em;
+    color: green;
+    text-shadow: 2px 4px burlywood;
+    width: 85%;
+    margin: auto;
+
+}
+
+h1 span {
+    color: red;
+    border-bottom: 0;
+}
+
+h2 {
+    margin: .5em;
+    color: green;
+}
+
+section h2 {
+    color: red;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+img {
+    border-radius: 50%;
+    shape-outside: circle();
+}
+
+form {
+    color: white;
+    font-weight: bold;
+}
+
+table,
+tr,
+td {
+    border: 1px solid whitesmoke;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+main {
+  background-color: slategrey;
+  height: 95vh;
+}
+
+
